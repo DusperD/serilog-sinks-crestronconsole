@@ -48,7 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CrestronConsoleSinkExtension.cs" />
-    <Compile Include="CrestronConsoleSink.cs" />
+    <Compile Include="CrestronConsoleSink.cs />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

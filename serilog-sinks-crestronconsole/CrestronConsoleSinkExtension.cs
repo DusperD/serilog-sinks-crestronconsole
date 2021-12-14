@@ -17,7 +17,7 @@ namespace serilog_sinks_crestronconsole
         /// Writes log events to <see cref="CrestronConsole"/>.
         /// </summary>
         /// <param name="loggerConfiguration">Logger sink configuration.</param>
-        /// <param name="restrictedToMinimumLevel">The minimum level forevents passed through the sink. Ignored when <paramref name="levelSwitch"/> is specified.</param>
+        /// <param name="restrictedToMinimumLevel">The minimum level forevents passed through the sink. Ignored when <paramref name="levelSwitch"/> is3 specified.</param>
         /// <param name="levelSwitch">A switch allowing the pass-through minimum level to be changed at runtime.</param>
         /// <param name="outputTemplate">A message template describing the format used to write to the sink.the default is <code>"[{Timestamp:HH:mm:ss} {Level:u3}] {Message:lj}{NewLine}{Exception}"</code>.</param>
         /// <param name="formatProvider">Supplies culture-specific formatting information, or null.</param>
