@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Serilog.Sinks.CrestronConsole</id>
+    <version>1.0.0</version>
+    <title>CrestronConsole Serilog Sink</title>
+    <authors>DusperD</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <!--<projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>-->
+    <description>A library for serilog</description>
+    <releaseNotes>N/A</releaseNotes>
+    <copyright>copyright 2021</copyright>
+    <tags>Crestron Sinks Serilog Serilog Sinks</tags>
+  </metadata>
+</package>
